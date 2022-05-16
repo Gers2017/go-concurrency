@@ -15,3 +15,7 @@ Resources:
 - [Goroutines | Programiz](https://www.programiz.com/golang/goroutines)
 
 - [Computerphile video](./go-counting/README.md)
+
+<div align="center">
+  <img src="assets/go-strong.png" alt="Go strong" />
+</div>
